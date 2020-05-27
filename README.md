@@ -9,4 +9,4 @@ Release 1.0 Added Features for start on VisualStudio Code. Before this a can sta
 
 The name of the project  is in German, because  I am a fan of   German series Dark :). I think this means Quick in google translator.
 
-#Pepe Medina
+**Pepe Medina**
