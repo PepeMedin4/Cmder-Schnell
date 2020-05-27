@@ -1,6 +1,8 @@
 # Cmder Schnell. 
 Loader very fast for Cmder. A little more than a second ;-)
 
+![Cmder-Schnell](Cmder-Schnell.png)
+
 This is a personalized config for the init.d file for Cmder. This file change the  loader for Cmder and reduce all not necesary for the start the program quickly.
 
 Maybe It have errors but the slow loading was driving me crazy. Sorry for that and my english!
